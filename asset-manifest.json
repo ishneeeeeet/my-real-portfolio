@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/my-published-portfolio/static/css/main.a251e1aa.css",
+    "main.js": "/my-published-portfolio/static/js/main.9e6e75af.js",
+    "static/media/leetcode.jpg": "/my-published-portfolio/static/media/leetcode.7e80f19dc3200739ff20.jpg",
+    "static/media/linkedin.png": "/my-published-portfolio/static/media/linkedin.ddf3172bff73cb91d2a7.png",
+    "index.html": "/my-published-portfolio/index.html",
+    "main.a251e1aa.css.map": "/my-published-portfolio/static/css/main.a251e1aa.css.map",
+    "main.9e6e75af.js.map": "/my-published-portfolio/static/js/main.9e6e75af.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a251e1aa.css",
+    "static/js/main.9e6e75af.js"
+  ]
+}
