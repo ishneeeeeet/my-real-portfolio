@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.5fe97da6.css",
-    "main.js": "/react-gh-pages/static/js/main.aca1a8dc.js",
-    "static/media/ishneetimage.jpg": "/react-gh-pages/static/media/ishneetimage.8a3554ca8e264cb27f4e.jpg",
-    "static/media/leetcode.jpg": "/react-gh-pages/static/media/leetcode.7e80f19dc3200739ff20.jpg",
-    "static/media/React-icon.svg.webp": "/react-gh-pages/static/media/React-icon.svg.83c34a0f4d3c419df77a.webp",
-    "static/media/linkedin.png": "/react-gh-pages/static/media/linkedin.ddf3172bff73cb91d2a7.png",
-    "static/media/img_js.png": "/react-gh-pages/static/media/img_js.c863dc1f67609fc9b01d.png",
-    "index.html": "/react-gh-pages/index.html",
-    "main.5fe97da6.css.map": "/react-gh-pages/static/css/main.5fe97da6.css.map",
-    "main.aca1a8dc.js.map": "/react-gh-pages/static/js/main.aca1a8dc.js.map"
+    "main.css": "/my-real-portfolio/static/css/main.5fe97da6.css",
+    "main.js": "/my-real-portfolio/static/js/main.ab7ce43f.js",
+    "static/media/ishneetimage.jpg": "/my-real-portfolio/static/media/ishneetimage.8a3554ca8e264cb27f4e.jpg",
+    "static/media/leetcode.jpg": "/my-real-portfolio/static/media/leetcode.7e80f19dc3200739ff20.jpg",
+    "static/media/React-icon.svg.webp": "/my-real-portfolio/static/media/React-icon.svg.83c34a0f4d3c419df77a.webp",
+    "static/media/linkedin.png": "/my-real-portfolio/static/media/linkedin.ddf3172bff73cb91d2a7.png",
+    "static/media/img_js.png": "/my-real-portfolio/static/media/img_js.c863dc1f67609fc9b01d.png",
+    "index.html": "/my-real-portfolio/index.html",
+    "main.5fe97da6.css.map": "/my-real-portfolio/static/css/main.5fe97da6.css.map",
+    "main.ab7ce43f.js.map": "/my-real-portfolio/static/js/main.ab7ce43f.js.map"
   },
   "entrypoints": [
     "static/css/main.5fe97da6.css",
-    "static/js/main.aca1a8dc.js"
+    "static/js/main.ab7ce43f.js"
   ]
 }
